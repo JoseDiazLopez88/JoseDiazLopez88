@@ -1,6 +1,6 @@
 # 👋 Hola, soy José E. Díaz López
 
-**QA Analyst | Backend Developer Java Spring**
+## **QA Analyst | Backend Developer Java Spring**
 
 🎯 Profesional orientado a la calidad del software, especializado en **pruebas funcionales, API Testing, automatización y performance**. Complemento esta experiencia con **desarrollo backend en Java y Spring Boot**, construyendo APIs RESTful robustas y seguras, con integración de pruebas unitarias, control de errores y despliegues eficientes.
 
