@@ -18,7 +18,7 @@
 |:---------------------------------------|:----------------------------------------------------|:---------------------------------|
 | **api-testing-Newman-y-postman**       | Automatización de pruebas REST API con reportes HTML| Postman, Newman, htmlextra       |
 | **proyecto-testing-manual-w3c**        | Evaluación manual de accesibilidad en sitio web W3C | Excel, Chrome, QA Manual         |
-| **api-clientes-springboot** *(nuevo)*  | API REST de gestión de clientes con validaciones y pruebas unitarias | Spring Boot, Java, JUnit 5, Mockito |
+| **api-productos-springboot** *(nuevo)*  | API REST de gestión de productos con validaciones y pruebas unitarias | Spring Boot, Java, JUnit 5, Mockito |
 
 ## 📫 Contacto
 - 📧 jose.diaz.lopez94@gmail.com
